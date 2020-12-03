@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 😎 &nbsp; i am a jolly good fella.
+- 😎 &nbsp; I am a jolly good fella.
 - 🤔 &nbsp; Exploring new technologies and fixing bugs in production 😜.
 - 💼 &nbsp; Working as a Software Engineer at SBSC [http://sbsc.com/].
 
