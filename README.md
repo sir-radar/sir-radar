@@ -31,7 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/sir-radar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sir-radar&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-radar&theme=buefy&layout=compact" />
 </a>
