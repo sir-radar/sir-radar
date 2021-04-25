@@ -4,7 +4,7 @@
 
 - 😎 &nbsp; I am a jolly good fella.
 - 🤔 &nbsp; Exploring new technologies and fixing bugs in production 😜.
-- 💼 &nbsp; Working as a Frontend Engineer.
+- 💼 &nbsp; Working as a Software Engineer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
