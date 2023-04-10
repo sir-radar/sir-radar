@@ -17,7 +17,8 @@
   ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue-dot-js)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
